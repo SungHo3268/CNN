@@ -1,0 +1,1 @@
+{"mode": "server", "dataset": "cs", "embed": 15, "lr": 1.0, "batch": 20, "max_epoch": 35, "dropout": 0.5, "max_norm": 5.0}

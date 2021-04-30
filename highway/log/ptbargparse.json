@@ -1,0 +1,1 @@
+{"mode": "server", "dataset": "ptb", "lr": 1.0, "batch_size": 20, "seq_len": 35, "char_dim": 15, "highway_layer": 1, "lstm_dim": 300, "lstm_layer": 2, "max_epoch": 25, "dropout": 0.5, "max_norm": 5.0, "gpu": false}
